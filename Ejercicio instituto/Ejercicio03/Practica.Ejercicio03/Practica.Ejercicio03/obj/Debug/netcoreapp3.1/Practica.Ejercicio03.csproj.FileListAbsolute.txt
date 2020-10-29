@@ -1,0 +1,15 @@
+C:\Users\judit\Desktop\Ester\DAW\trabajos casa\Ejercicio03\Practica.Ejercicio03\Practica.Ejercicio03\bin\Debug\netcoreapp3.1\Practica.Ejercicio03.exe
+C:\Users\judit\Desktop\Ester\DAW\trabajos casa\Ejercicio03\Practica.Ejercicio03\Practica.Ejercicio03\bin\Debug\netcoreapp3.1\Practica.Ejercicio03.deps.json
+C:\Users\judit\Desktop\Ester\DAW\trabajos casa\Ejercicio03\Practica.Ejercicio03\Practica.Ejercicio03\bin\Debug\netcoreapp3.1\Practica.Ejercicio03.runtimeconfig.json
+C:\Users\judit\Desktop\Ester\DAW\trabajos casa\Ejercicio03\Practica.Ejercicio03\Practica.Ejercicio03\bin\Debug\netcoreapp3.1\Practica.Ejercicio03.runtimeconfig.dev.json
+C:\Users\judit\Desktop\Ester\DAW\trabajos casa\Ejercicio03\Practica.Ejercicio03\Practica.Ejercicio03\bin\Debug\netcoreapp3.1\Practica.Ejercicio03.dll
+C:\Users\judit\Desktop\Ester\DAW\trabajos casa\Ejercicio03\Practica.Ejercicio03\Practica.Ejercicio03\bin\Debug\netcoreapp3.1\Practica.Ejercicio03.pdb
+C:\Users\judit\Desktop\Ester\DAW\trabajos casa\Ejercicio03\Practica.Ejercicio03\Practica.Ejercicio03\obj\Debug\netcoreapp3.1\Practica.Ejercicio03.Form1.resources
+C:\Users\judit\Desktop\Ester\DAW\trabajos casa\Ejercicio03\Practica.Ejercicio03\Practica.Ejercicio03\obj\Debug\netcoreapp3.1\Practica.Ejercicio03.csproj.GenerateResource.cache
+C:\Users\judit\Desktop\Ester\DAW\trabajos casa\Ejercicio03\Practica.Ejercicio03\Practica.Ejercicio03\obj\Debug\netcoreapp3.1\Practica.Ejercicio03.AssemblyInfoInputs.cache
+C:\Users\judit\Desktop\Ester\DAW\trabajos casa\Ejercicio03\Practica.Ejercicio03\Practica.Ejercicio03\obj\Debug\netcoreapp3.1\Practica.Ejercicio03.AssemblyInfo.cs
+C:\Users\judit\Desktop\Ester\DAW\trabajos casa\Ejercicio03\Practica.Ejercicio03\Practica.Ejercicio03\obj\Debug\netcoreapp3.1\Practica.Ejercicio03.csproj.CoreCompileInputs.cache
+C:\Users\judit\Desktop\Ester\DAW\trabajos casa\Ejercicio03\Practica.Ejercicio03\Practica.Ejercicio03\obj\Debug\netcoreapp3.1\Practica.Ejercicio03.dll
+C:\Users\judit\Desktop\Ester\DAW\trabajos casa\Ejercicio03\Practica.Ejercicio03\Practica.Ejercicio03\obj\Debug\netcoreapp3.1\Practica.Ejercicio03.pdb
+C:\Users\judit\Desktop\Ester\DAW\trabajos casa\Ejercicio03\Practica.Ejercicio03\Practica.Ejercicio03\obj\Debug\netcoreapp3.1\Practica.Ejercicio03.genruntimeconfig.cache
+C:\Users\judit\Desktop\Ester\DAW\trabajos casa\Ejercicio03\Practica.Ejercicio03\Practica.Ejercicio03\obj\Debug\netcoreapp3.1\Practica.Ejercicio03.csprojAssemblyReference.cache

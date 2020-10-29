@@ -1,0 +1,15 @@
+C:\Users\judit\Desktop\Ester\DAW\TrabajosCasa\Ejercicio instituto\Ejercicio13\Ejercicio13\Ejercicio13\bin\Debug\netcoreapp3.1\Ejercicio13.exe
+C:\Users\judit\Desktop\Ester\DAW\TrabajosCasa\Ejercicio instituto\Ejercicio13\Ejercicio13\Ejercicio13\bin\Debug\netcoreapp3.1\Ejercicio13.deps.json
+C:\Users\judit\Desktop\Ester\DAW\TrabajosCasa\Ejercicio instituto\Ejercicio13\Ejercicio13\Ejercicio13\bin\Debug\netcoreapp3.1\Ejercicio13.runtimeconfig.json
+C:\Users\judit\Desktop\Ester\DAW\TrabajosCasa\Ejercicio instituto\Ejercicio13\Ejercicio13\Ejercicio13\bin\Debug\netcoreapp3.1\Ejercicio13.runtimeconfig.dev.json
+C:\Users\judit\Desktop\Ester\DAW\TrabajosCasa\Ejercicio instituto\Ejercicio13\Ejercicio13\Ejercicio13\bin\Debug\netcoreapp3.1\Ejercicio13.dll
+C:\Users\judit\Desktop\Ester\DAW\TrabajosCasa\Ejercicio instituto\Ejercicio13\Ejercicio13\Ejercicio13\bin\Debug\netcoreapp3.1\Ejercicio13.pdb
+C:\Users\judit\Desktop\Ester\DAW\TrabajosCasa\Ejercicio instituto\Ejercicio13\Ejercicio13\Ejercicio13\obj\Debug\netcoreapp3.1\Ejercicio13.csprojAssemblyReference.cache
+C:\Users\judit\Desktop\Ester\DAW\TrabajosCasa\Ejercicio instituto\Ejercicio13\Ejercicio13\Ejercicio13\obj\Debug\netcoreapp3.1\Ejercicio13.Form1.resources
+C:\Users\judit\Desktop\Ester\DAW\TrabajosCasa\Ejercicio instituto\Ejercicio13\Ejercicio13\Ejercicio13\obj\Debug\netcoreapp3.1\Ejercicio13.csproj.GenerateResource.cache
+C:\Users\judit\Desktop\Ester\DAW\TrabajosCasa\Ejercicio instituto\Ejercicio13\Ejercicio13\Ejercicio13\obj\Debug\netcoreapp3.1\Ejercicio13.AssemblyInfoInputs.cache
+C:\Users\judit\Desktop\Ester\DAW\TrabajosCasa\Ejercicio instituto\Ejercicio13\Ejercicio13\Ejercicio13\obj\Debug\netcoreapp3.1\Ejercicio13.AssemblyInfo.cs
+C:\Users\judit\Desktop\Ester\DAW\TrabajosCasa\Ejercicio instituto\Ejercicio13\Ejercicio13\Ejercicio13\obj\Debug\netcoreapp3.1\Ejercicio13.csproj.CoreCompileInputs.cache
+C:\Users\judit\Desktop\Ester\DAW\TrabajosCasa\Ejercicio instituto\Ejercicio13\Ejercicio13\Ejercicio13\obj\Debug\netcoreapp3.1\Ejercicio13.dll
+C:\Users\judit\Desktop\Ester\DAW\TrabajosCasa\Ejercicio instituto\Ejercicio13\Ejercicio13\Ejercicio13\obj\Debug\netcoreapp3.1\Ejercicio13.pdb
+C:\Users\judit\Desktop\Ester\DAW\TrabajosCasa\Ejercicio instituto\Ejercicio13\Ejercicio13\Ejercicio13\obj\Debug\netcoreapp3.1\Ejercicio13.genruntimeconfig.cache

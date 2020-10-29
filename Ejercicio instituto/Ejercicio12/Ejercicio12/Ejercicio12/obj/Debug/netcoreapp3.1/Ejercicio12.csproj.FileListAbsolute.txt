@@ -1,0 +1,14 @@
+C:\Users\judit\Desktop\Ester\DAW\TrabajosCasa\Ejercicio instituto\Ejercicio12\Ejercicio12\Ejercicio12\bin\Debug\netcoreapp3.1\Ejercicio12.exe
+C:\Users\judit\Desktop\Ester\DAW\TrabajosCasa\Ejercicio instituto\Ejercicio12\Ejercicio12\Ejercicio12\bin\Debug\netcoreapp3.1\Ejercicio12.deps.json
+C:\Users\judit\Desktop\Ester\DAW\TrabajosCasa\Ejercicio instituto\Ejercicio12\Ejercicio12\Ejercicio12\bin\Debug\netcoreapp3.1\Ejercicio12.runtimeconfig.json
+C:\Users\judit\Desktop\Ester\DAW\TrabajosCasa\Ejercicio instituto\Ejercicio12\Ejercicio12\Ejercicio12\bin\Debug\netcoreapp3.1\Ejercicio12.runtimeconfig.dev.json
+C:\Users\judit\Desktop\Ester\DAW\TrabajosCasa\Ejercicio instituto\Ejercicio12\Ejercicio12\Ejercicio12\bin\Debug\netcoreapp3.1\Ejercicio12.dll
+C:\Users\judit\Desktop\Ester\DAW\TrabajosCasa\Ejercicio instituto\Ejercicio12\Ejercicio12\Ejercicio12\bin\Debug\netcoreapp3.1\Ejercicio12.pdb
+C:\Users\judit\Desktop\Ester\DAW\TrabajosCasa\Ejercicio instituto\Ejercicio12\Ejercicio12\Ejercicio12\obj\Debug\netcoreapp3.1\Ejercicio12.Form1.resources
+C:\Users\judit\Desktop\Ester\DAW\TrabajosCasa\Ejercicio instituto\Ejercicio12\Ejercicio12\Ejercicio12\obj\Debug\netcoreapp3.1\Ejercicio12.csproj.GenerateResource.cache
+C:\Users\judit\Desktop\Ester\DAW\TrabajosCasa\Ejercicio instituto\Ejercicio12\Ejercicio12\Ejercicio12\obj\Debug\netcoreapp3.1\Ejercicio12.AssemblyInfoInputs.cache
+C:\Users\judit\Desktop\Ester\DAW\TrabajosCasa\Ejercicio instituto\Ejercicio12\Ejercicio12\Ejercicio12\obj\Debug\netcoreapp3.1\Ejercicio12.AssemblyInfo.cs
+C:\Users\judit\Desktop\Ester\DAW\TrabajosCasa\Ejercicio instituto\Ejercicio12\Ejercicio12\Ejercicio12\obj\Debug\netcoreapp3.1\Ejercicio12.csproj.CoreCompileInputs.cache
+C:\Users\judit\Desktop\Ester\DAW\TrabajosCasa\Ejercicio instituto\Ejercicio12\Ejercicio12\Ejercicio12\obj\Debug\netcoreapp3.1\Ejercicio12.dll
+C:\Users\judit\Desktop\Ester\DAW\TrabajosCasa\Ejercicio instituto\Ejercicio12\Ejercicio12\Ejercicio12\obj\Debug\netcoreapp3.1\Ejercicio12.pdb
+C:\Users\judit\Desktop\Ester\DAW\TrabajosCasa\Ejercicio instituto\Ejercicio12\Ejercicio12\Ejercicio12\obj\Debug\netcoreapp3.1\Ejercicio12.genruntimeconfig.cache
