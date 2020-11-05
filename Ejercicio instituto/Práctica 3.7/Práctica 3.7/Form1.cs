@@ -21,15 +21,27 @@ namespace Práctica_3._7
 
         private void button1_Click(object sender, EventArgs e)
         {
-            int numero1;
-            switch (textBox1.Text.ToString())
+            int numero = int.Parse(textBox1.Text);
+                            
+            switch (numero)
             {
-                case numero1:
-                    numero1 = MessageBox.Show (" el número que se a apretado es el 1");
+                case 1:
+                    MessageBox.Show (" el número que se a apretado es el 1");
                     break;
-                   
+                case 2:
+                    MessageBox.Show(" el número que se a apretado es el 2");
+                    break;
+                case 3:
+                    MessageBox.Show(" el número que se a apretado es el 3");
+                    break;
+                case 4:
+                    MessageBox.Show(" el número que se a apretado es el 4");
+                    break;
+                case 5:
+                    MessageBox.Show(" el número que se a apretado es el 5");
+                    break;
                 default:
-                    numero  = 0;
+                    MessageBox.Show("");
                     break;
             }
 
