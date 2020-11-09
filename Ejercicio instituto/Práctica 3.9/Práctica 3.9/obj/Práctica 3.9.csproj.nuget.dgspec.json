@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\judit\\Desktop\\Ester\\DAW\\TrabajosCasa\\Trabajos-Casa\\Ejercicio instituto\\Práctica 3.9\\Práctica 3.9\\Práctica 3.9.csproj": {}
+    "C:\\Users\\bonmati20964\\Desktop\\repost\\Trabajos casa\\Trabajos-Casa\\Ejercicio instituto\\Práctica 3.9\\Práctica 3.9\\Práctica 3.9.csproj": {}
   },
   "projects": {
-    "C:\\Users\\judit\\Desktop\\Ester\\DAW\\TrabajosCasa\\Trabajos-Casa\\Ejercicio instituto\\Práctica 3.9\\Práctica 3.9\\Práctica 3.9.csproj": {
+    "C:\\Users\\bonmati20964\\Desktop\\repost\\Trabajos casa\\Trabajos-Casa\\Ejercicio instituto\\Práctica 3.9\\Práctica 3.9\\Práctica 3.9.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\judit\\Desktop\\Ester\\DAW\\TrabajosCasa\\Trabajos-Casa\\Ejercicio instituto\\Práctica 3.9\\Práctica 3.9\\Práctica 3.9.csproj",
+        "projectUniqueName": "C:\\Users\\bonmati20964\\Desktop\\repost\\Trabajos casa\\Trabajos-Casa\\Ejercicio instituto\\Práctica 3.9\\Práctica 3.9\\Práctica 3.9.csproj",
         "projectName": "Práctica 3.9",
-        "projectPath": "C:\\Users\\judit\\Desktop\\Ester\\DAW\\TrabajosCasa\\Trabajos-Casa\\Ejercicio instituto\\Práctica 3.9\\Práctica 3.9\\Práctica 3.9.csproj",
-        "packagesPath": "C:\\Users\\judit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\judit\\Desktop\\Ester\\DAW\\TrabajosCasa\\Trabajos-Casa\\Ejercicio instituto\\Práctica 3.9\\Práctica 3.9\\obj\\",
+        "projectPath": "C:\\Users\\bonmati20964\\Desktop\\repost\\Trabajos casa\\Trabajos-Casa\\Ejercicio instituto\\Práctica 3.9\\Práctica 3.9\\Práctica 3.9.csproj",
+        "packagesPath": "C:\\Users\\bonmati20964\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bonmati20964\\Desktop\\repost\\Trabajos casa\\Trabajos-Casa\\Ejercicio instituto\\Práctica 3.9\\Práctica 3.9\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\judit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\bonmati20964\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
