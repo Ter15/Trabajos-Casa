@@ -22,6 +22,56 @@ namespace Práctica_3._11
 
         private void button1_Click(object sender, EventArgs e)
         {
+           int hora = int.Parse(textBox1.Text);            
+           int minutos = int.Parse(textBox2.Text);
+           int segundo = int.Parse(textBox3.Text);
+
+            if (segundo < 59 && segundo > 0)
+            {
+                segundo = segundo + 1;
+            }
+            else if (segundo == 59)
+            {
+                segundo = 00;
+            }
+            else if (minutos == 59)
+            {
+                minutos = 00;
+            }
+                              
+            
+            else
+            {
+                MessageBox.Show("has introducido un error A");
+            }
+
+            if (minutos < 59 && minutos > 0)
+            {
+                minutos = minutos + 1;
+            }
+            else if (minutos == 59)
+            {
+                hora = hora + 1;
+                minutos = 0;
+            }
+            else
+            {
+                MessageBox.Show("has introducido un error B");
+            }
+
+            if (hora < 23 && hora > 0)
+            {
+                hora++;
+            }
+            else if (hora == 23)
+            {
+                hora = 00;
+            }
+            else
+            {
+                MessageBox.Show("has introducido un error C");
+            }
+            MessageBox.Show("La hora siguiente es: " + hora + " : " + minutos + " : " + segundo);
 
         }
 

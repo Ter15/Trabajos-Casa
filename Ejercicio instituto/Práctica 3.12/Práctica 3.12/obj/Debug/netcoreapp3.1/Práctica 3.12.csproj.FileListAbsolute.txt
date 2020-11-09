@@ -1,0 +1,15 @@
+C:\Users\judit\Desktop\Ester\DAW\TrabajosCasa\Trabajos-Casa\Ejercicio instituto\Práctica 3.12\Práctica 3.12\bin\Debug\netcoreapp3.1\Práctica 3.12.exe
+C:\Users\judit\Desktop\Ester\DAW\TrabajosCasa\Trabajos-Casa\Ejercicio instituto\Práctica 3.12\Práctica 3.12\bin\Debug\netcoreapp3.1\Práctica 3.12.deps.json
+C:\Users\judit\Desktop\Ester\DAW\TrabajosCasa\Trabajos-Casa\Ejercicio instituto\Práctica 3.12\Práctica 3.12\bin\Debug\netcoreapp3.1\Práctica 3.12.runtimeconfig.json
+C:\Users\judit\Desktop\Ester\DAW\TrabajosCasa\Trabajos-Casa\Ejercicio instituto\Práctica 3.12\Práctica 3.12\bin\Debug\netcoreapp3.1\Práctica 3.12.runtimeconfig.dev.json
+C:\Users\judit\Desktop\Ester\DAW\TrabajosCasa\Trabajos-Casa\Ejercicio instituto\Práctica 3.12\Práctica 3.12\bin\Debug\netcoreapp3.1\Práctica 3.12.dll
+C:\Users\judit\Desktop\Ester\DAW\TrabajosCasa\Trabajos-Casa\Ejercicio instituto\Práctica 3.12\Práctica 3.12\bin\Debug\netcoreapp3.1\Práctica 3.12.pdb
+C:\Users\judit\Desktop\Ester\DAW\TrabajosCasa\Trabajos-Casa\Ejercicio instituto\Práctica 3.12\Práctica 3.12\obj\Debug\netcoreapp3.1\Práctica 3.12.csprojAssemblyReference.cache
+C:\Users\judit\Desktop\Ester\DAW\TrabajosCasa\Trabajos-Casa\Ejercicio instituto\Práctica 3.12\Práctica 3.12\obj\Debug\netcoreapp3.1\Práctica_3._12.Form1.resources
+C:\Users\judit\Desktop\Ester\DAW\TrabajosCasa\Trabajos-Casa\Ejercicio instituto\Práctica 3.12\Práctica 3.12\obj\Debug\netcoreapp3.1\Práctica 3.12.csproj.GenerateResource.cache
+C:\Users\judit\Desktop\Ester\DAW\TrabajosCasa\Trabajos-Casa\Ejercicio instituto\Práctica 3.12\Práctica 3.12\obj\Debug\netcoreapp3.1\Práctica 3.12.AssemblyInfoInputs.cache
+C:\Users\judit\Desktop\Ester\DAW\TrabajosCasa\Trabajos-Casa\Ejercicio instituto\Práctica 3.12\Práctica 3.12\obj\Debug\netcoreapp3.1\Práctica 3.12.AssemblyInfo.cs
+C:\Users\judit\Desktop\Ester\DAW\TrabajosCasa\Trabajos-Casa\Ejercicio instituto\Práctica 3.12\Práctica 3.12\obj\Debug\netcoreapp3.1\Práctica 3.12.csproj.CoreCompileInputs.cache
+C:\Users\judit\Desktop\Ester\DAW\TrabajosCasa\Trabajos-Casa\Ejercicio instituto\Práctica 3.12\Práctica 3.12\obj\Debug\netcoreapp3.1\Práctica 3.12.dll
+C:\Users\judit\Desktop\Ester\DAW\TrabajosCasa\Trabajos-Casa\Ejercicio instituto\Práctica 3.12\Práctica 3.12\obj\Debug\netcoreapp3.1\Práctica 3.12.pdb
+C:\Users\judit\Desktop\Ester\DAW\TrabajosCasa\Trabajos-Casa\Ejercicio instituto\Práctica 3.12\Práctica 3.12\obj\Debug\netcoreapp3.1\Práctica 3.12.genruntimeconfig.cache

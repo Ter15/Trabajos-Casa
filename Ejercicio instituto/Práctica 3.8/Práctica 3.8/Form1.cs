@@ -27,7 +27,7 @@ namespace Práctica_3._8
         {
             string texto;            
             texto = textBox1.Text;                      
-            label3.Text = texto;            
+            label3.Text += "\n" + texto;            
                                                                                               
         }
 
