@@ -20,7 +20,15 @@ namespace Práctica_3._13
 
         private void button1_Click(object sender, EventArgs e)
         {
+            int numero = int.Parse(textBox1.Text);
+            int i;
+            string Mensaje = "";
 
+            for ( i = 0; ((numero % 2) == 0); i ++ )
+            {
+                Mensaje += i + " ";
+            }
+            MessageBox.Show(Mensaje);
         }
     }
 }

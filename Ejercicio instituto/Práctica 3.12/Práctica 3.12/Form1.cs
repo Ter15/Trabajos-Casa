@@ -51,7 +51,6 @@ namespace Práctica_3._12
             int numero = int.Parse(textBox1.Text);
             int i = 0;
             string MensajeMostrar = "";
-
             do
             {
                 MensajeMostrar += i + " ";
