@@ -10,6 +10,10 @@ namespace De_la_Práctica__3._1._2._3__hasta_____
             //Ejercicios.Ejercicio5();
             //Ejercicios.ejercicio6();
             //Ejercicios.Ejercicio7();
+            // Ejercicios.Ejercicio8();
+            // Ejercicios.Ejercicio9();
+            //Ejercicios.ejercicio10();
+           // Ejercicios.Ejercicio11();
         }
     }
 }
