@@ -223,5 +223,162 @@ namespace T_3_Desde_el__2._1._1._1__hasta_____
                 System.Console.WriteLine(n1 + " no  es multiplo  de 2 ni de 3 a la vez");
             }
         }
+        //(2.1.5.3) Crea un programa que pida al usuario un número entero y responda si es múltiplo de 2 pero no de 3.
+        public static void IsMultiple2__3_51()
+        {
+            System.Console.WriteLine("Introduce un numero entero");
+            int n1 = System.Convert.ToInt32(System.Console.ReadLine());
+            if ((n1 % 2) == 0 && (n1 % 3) != 0)
+            {
+                System.Console.WriteLine(n1 + " es multiplo de 2  pero no de 3 ");
+            }
+            else
+            {
+                System.Console.WriteLine(n1 + " no cumple con la condicion del enunciado ");
+            }
+        }
+        //(2.1.5.4) Crea un programa que pida al usuario un número entero y responda si no es múltiplo de 2 ni de 3.
+        public static void IsMultiple2__3_52()
+        {
+            System.Console.WriteLine("Introduce un numero entero");
+            int n1 = System.Convert.ToInt32(System.Console.ReadLine());
+            if ((n1 % 2) != 0 && (n1 % 3) != 0)
+            {
+                System.Console.WriteLine(n1 + " no  es multiplo de 2  ni de 3 ");
+            }
+            else
+            {
+                System.Console.WriteLine(n1 + " no cumple con la condicion del enunciado ");
+            }
+        }
+        //(2.1.5.5) Crea un programa que pida al usuario dos números enteros y diga si ambos son pares.
+        public static void IsEven_1_53()
+        {
+            System.Console.WriteLine("Introduce un numero entero");
+            int n1 = System.Convert.ToInt32(System.Console.ReadLine());
+            System.Console.WriteLine("Introduce un numero entero");
+            int n2 = System.Convert.ToInt32(System.Console.ReadLine());
+            if ((n1 % 2) == 0 && (n2 % 2) == 0)
+            {
+                System.Console.WriteLine(n1 + " , " + n2 +" son pares ");
+            }
+            else
+            {
+                System.Console.WriteLine(n1 + " , " + n2 + " uno de los dos es impar ");
+            }
+        }
+        //(2.1.5.6) Crea un programa que pida al usuario dos números enteros y diga si (al menos) uno es par.
+        public static void IsEven_2_54()
+        {
+            System.Console.WriteLine("Introduce un numero entero");
+            int n1 = System.Convert.ToInt32(System.Console.ReadLine());
+            System.Console.WriteLine("Introduce un numero entero");
+            int n2 = System.Convert.ToInt32(System.Console.ReadLine());
+            if ((n1 % 2) == 0 || (n2 % 2) == 0)
+            {
+                System.Console.WriteLine(" los dos o uno de ellos es par ");
+            }
+            else
+            {
+                System.Console.WriteLine("son impares");
+            }
+        }
+        //(2.1.5.7) Crea un programa que pida al usuario dos números enteros y diga si uno  y sólo uno es par.
+        public static void IsEven_3_55()
+        {
+            System.Console.WriteLine("Introduce un numero entero");
+            int n1 = System.Convert.ToInt32(System.Console.ReadLine());
+            System.Console.WriteLine("Introduce un numero entero");
+            int n2 = System.Convert.ToInt32(System.Console.ReadLine());
+            if ((n1 % 2) == 0 )
+            {
+                System.Console.WriteLine( n1 + " es par ");
+            }
+            else 
+            {
+                System.Console.WriteLine(n1 + " es impar");
+            }
+            if  ((n2 % 2) == 0)
+            {
+                System.Console.WriteLine(n2 + " es par ");
+            }
+            else 
+            {
+                System.Console.WriteLine(n2  + " es impar");
+            }
+        }
+        //(2.1.5.8) Crea un programa que pida al usuario dos números enteros y diga "Uno de los números es positivo", "Los dos números son positivos"
+        //o bien "Ninguno de los números es positivo", según corresponda.
+        public static void GetPositive_56()
+        {
+            System.Console.WriteLine("Introduce un numero entero");
+            int n1 = System.Convert.ToInt32(System.Console.ReadLine());
+            System.Console.WriteLine("Introduce un numero entero");
+            int n2 = System.Convert.ToInt32(System.Console.ReadLine());
+            if ((n1 > 0) && (n2 > 0))
+            {
+                System.Console.WriteLine("los dos son positivos ");
+            }
+            else if ((n1 > 0) || (n2 > 0))
+            {
+                System.Console.WriteLine("uno de los dos números es positivo");
+            }
+            else
+            {
+                System.Console.WriteLine("ninguno es positivo");
+            }
+        }
+        //(2.1.5.9) Crea un programa que pida al usuario tres números y muestre cuál es el  mayor de los tres.
+        public static void IsGreater3_57()
+        {
+            System.Console.WriteLine("Introduce un numero entero");
+            int n1 = System.Convert.ToInt32(System.Console.ReadLine());
+            System.Console.WriteLine("Introduce un numero entero");
+            int n2 = System.Convert.ToInt32(System.Console.ReadLine());
+            System.Console.WriteLine("Introduce un numero entero");
+            int n3 = System.Convert.ToInt32(System.Console.ReadLine());
+            if (n1 > n2)
+            {
+                if (n1 > n3)
+                {
+                    System.Console.WriteLine("El mayor es: " + n1);
+                }
+                else
+                {
+                    System.Console.WriteLine("El mayor es: " + n3);
+                }
+            }
+            else
+            {
+                if (n2 > n3)
+                {
+                    System.Console.WriteLine("El mayor es: " + n2);
+                }
+                else
+                {
+                    System.Console.WriteLine("El mayor es: " + n3);
+                }
+            }
+        }
+        //(2.1.5.10) Crea un programa que pida al usuario dos números enteros y diga si son iguales o, en caso contrario, cuál es el mayor de ellos.
+        public static void IsGreater_2_58()
+        {
+            System.Console.WriteLine("Introduce un numero entero");
+            int n1 = System.Convert.ToInt32(System.Console.ReadLine());
+            System.Console.WriteLine("Introduce un numero entero");
+            int n2 = System.Convert.ToInt32(System.Console.ReadLine());
+            if (n1 == n2)
+            {
+                System.Console.WriteLine("los dos son iguales");
+            }
+            else if (n1 > n2)
+            {
+               System.Console.WriteLine("El mayor es: " + n1);
+            }
+            else
+            {
+                System.Console.WriteLine("El mayor es: " + n2);
+            }
+        }
     }
 }
