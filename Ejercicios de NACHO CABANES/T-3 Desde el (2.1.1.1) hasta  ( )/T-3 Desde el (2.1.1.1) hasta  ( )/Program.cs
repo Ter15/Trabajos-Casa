@@ -29,7 +29,7 @@ namespace T_3_Desde_el__2._1._1._1__hasta_____
             //Exercise.Excercise_Switch1_2_68();
             //Exercise.Excercise_Switch2_2_69();
             //Exercise.Excercise_Switch3_2_70();
-            Exercise.Excercise_contraseña_71();
+            //Exercise.Excercise_contraseña_71();
             // Exercise.Exercise_While_75();
             // Exercise.Exercise_While_76();
             //Exercise.Exercise_While_73();
