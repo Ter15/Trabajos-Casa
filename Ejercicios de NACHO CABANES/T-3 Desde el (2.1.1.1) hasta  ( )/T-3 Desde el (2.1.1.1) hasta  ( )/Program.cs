@@ -35,7 +35,27 @@ namespace T_3_Desde_el__2._1._1._1__hasta_____
             //Exercise.Exercise_While_73();
             //Exercise.Exercise_While_74();
             //Exercise.Exercise_While_72();
-           // Exercise.Exercise_While_78();
+            //Exercise.Exercise_While_78();
+            //Exercise.Exercise_While_77();
+            //Exercise.Exercise_While_79();
+            //Exercise.Exercise_do_While_79();
+            //Exercise.Exercise_for_84();
+            //Exercise.Exercise_for_85();
+            //Exercise.Excercise_for_86();
+            // Exercise.Excersise_for_87();
+            //Exercise.Exercise_for_88();
+            // Exercise.Exercise_for_89();
+            //Exercise.Exercise_Infinity_90();
+            // Exercise.Exercise_Infinity_91();
+            // Exercise.Exercise_For2_92();
+            // Exercise.Exercise_while_93();
+            // Exercise.exercise_for2_94();
+            //Exercise.Exercise_for2_95();
+            //Exercise.Exercise_For2_96();
+            //Exercise.Excercise_for2_97();
+            // Exercise.Excercise_for2_98();
+            Exercise.Excercise_for2_99();
+
         }
     }
 }

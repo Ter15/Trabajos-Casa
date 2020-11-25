@@ -694,7 +694,17 @@ namespace T_3_Desde_el__2._1._1._1__hasta_____
         }
 
         //(2.2.1.2.3) Crea un programa calcule cuantas cifras tiene un número entero positivo(pista: se puede hacer dividiendo varias veces entre 10).
-
+        public static void Exercise_While_77()
+        {
+            int n1 = Utils.comodin();
+            int contador = 0;
+            while ( n1 != 0)
+            {
+                n1 /= 10;
+                contador++;
+            }
+            System.Console.WriteLine("El número introducido tiene " + contador + " cifras");
+        }
 
         //(2.2.1.2.4) Crea el diagrama de flujo y la versión en C# de un programa que dé al usuario tres oportunidades para adivinar un número del 1 al 10.
         public static void Exercise_While_78() // REVISAR
@@ -705,42 +715,249 @@ namespace T_3_Desde_el__2._1._1._1__hasta_____
                 System.Console.WriteLine("introduce un numero del 1 al 10 para adivinar el número");
                 System.Console.WriteLine(" introduce un número");
                 int n1 = System.Convert.ToInt32(Console.ReadLine());
-                switch(n1)
+                if (n1 == 3)
                 {
-                    case 3:
-                        salir = false;
-                        System.Console.WriteLine("¡MUY BIEN! Es el número 3. Has hacertado a la primera");
-                        break;
-                }
-                System.Console.WriteLine("ERROR !!! , segundo intento: introduce un número");
-                int n2 = System.Convert.ToInt32(Console.ReadLine());
-                switch (n2)
-                {
-                    case 3:
-                        salir = false;
-                        System.Console.WriteLine("¡MUY BIEN! Es el número 3. Has hacertado a la segunda");
-                        break;
-                }
-                System.Console.WriteLine("ERROR !!! , tercer intento: introduce un número");
-                int n3 = System.Convert.ToInt32(Console.ReadLine());
-                switch (n3)
-                {
-                    case 3:
-                        salir = false;
-                        System.Console.WriteLine("¡MUY BIEN! Es el número 3. Has hacertado a la tercera");
-                        break;
-                    default:
-                        salir = false;
-                        System.Console.WriteLine("LO SENTIMOS, NO HAS ACERTADO EL NÚMERO");
-                        break;
-                }
-                salir = false;
-                break;
-            }
+                    
+                    System.Console.WriteLine("¡MUY BIEN! Es el número 3. Has hacertado a la primera");
 
+                }
+                else
+                {
+                    System.Console.WriteLine("ERROR !!! , segundo intento: introduce un número");
+                    int n2 = System.Convert.ToInt32(Console.ReadLine());
+                    if (n2 == 3)
+                    {
+                        System.Console.WriteLine("¡MUY BIEN! Es el número 3. Has hacertado a la segunda");
+                    }
+                    else
+                    {
+                        System.Console.WriteLine("ERROR !!! , tercer intento: introduce un número");
+                        int n3 = System.Convert.ToInt32(Console.ReadLine());
+                        if (n3 == 3 )
+                        {
+                            System.Console.WriteLine("¡MUY BIEN! Es el número 3. Has hacertado a la tercera");
+                        }
+                        else
+                        {
+                            salir = false;
+                            System.Console.WriteLine("LO SENTIMOS, NO HAS ACERTADO EL NÚMERO");
+                        }
+                    }
+                }
+            }
         }
         //(2.2.2.1) Crear un programa que pida números positivos al usuario, y vaya calculando y mostrando la suma de todos ellos
         //(terminará cuando se teclea un número negativo o cero).
+        public static void Exercise_do_While_89() //REVISAR, NO ME SALE
+        {
+            int n1 = Utils.comodin();
+            do
+            {
+                System.Console.WriteLine(n1);
+                n1++;
+            }
+            while ((n1 < 0) && (n1 == 0));
+            {
+                System.Console.WriteLine("fin de programa");
+            }
+        }
+        //(2.2.2.2) Crea un programa que escriba en pantalla los números del 1 al 10, usando "do..while".
 
+        //(2.2.2.3) Crea un programa que escriba en pantalla los números pares del 26 al 10 (descendiendo), usando "do..while".
+
+        //(2.2.2.4) Crea un programa que pida al usuario su identificador y su contraseña(ambos numéricos), y no le permita seguir hasta 
+        //que introduzca como identificador "1234" y como contraseña "1111".
+
+        //(2.2.2.5) Crea un programa que pida al usuario su identificador y su contraseña, y no le permita seguir hasta que 
+        //introduzca como nombre "Pedro" y como contraseña "Peter".
+
+        //(2.2.3.1) Crea un programa que muestre los números del 10 al 20, ambos  incluidos
+        public static void Exercise_for_84()
+        {
+            for (int i = 10; i <= 20; i++)
+            {
+                System.Console.Write(i + ", ");
+               // if (i == 20)
+               // {
+                 //   System.Console.Write(i);
+              //  }
+            }
+        }
+        //(2.2.3.2) Crea un programa que escriba en pantalla los números del 1 al 50 que sean múltiplos de 3 
+        //(pista: habrá que recorrer todos esos números y ver si el resto de la división entre 3 resulta 0).
+        public static void Exercise_for_85()
+        {
+            for (int i = 1; i <= 50; i++)
+            {
+                if ((( i % 3)==0))
+                    System.Console.Write( i + ", ");
+            }
+        }
+        //(2.2.3.1.3) Crea un programa que muestre los números del 100 al 200 (ambos incluidos) que sean divisibles entre 7 y a la vez entre 3.
+        public static void Excercise_for_86()
+        {
+            for (int i = 100; i <= 200; i++)
+            {
+                if (((i % 7) == 0) && ((i % 3) == 0))
+                {
+                    System.Console.Write(i + ", ");
+                    
+                }
+            }
+        }
+        //(2.2.3.4) Crea un programa que muestre la tabla de multiplicar del 9. 
+        public static void Excersise_for_87()
+        {
+            for (int i = 9; i <= 90; i+=9 )
+            {
+                System.Console.WriteLine(i + " ");
+            }
+        }
+        //(2.2.3.5) Crea un programa que muestre los primeros ocho números pares: 2 4 6 8 10 12 14 16 (pista: en cada pasada habrá que aumentar 
+        //de 2 en 2, o bien mostrar el doble del valor que hace de contador).
+        public static void Exercise_for_88()
+        {
+            for (int i = 2; i <= 16; i+=2)
+            {
+                System.Console.WriteLine(i + " ");
+            }
+        }
+        //(2.2.3.6) Crea un programa que muestre los números del 15 al 5, descendiendo (pista: en cada pasada habrá que descontar 1, por ejemplo
+         //haciendo i = i - 1, que se puede abreviar i--)
+         public static void Exercise_for_89()
+         {
+            for (int i = 15; i >=5; i--)
+            {
+                System.Console.WriteLine(i + " ");
+            }
+         }
+        //(2.2.4.1) Crea un programa que contenga un bucle sin fin que escriba "Hola " en pantalla, sin avanzar de línea.
+        public static void Exercise_Infinity_90()
+        {
+            for (; ; )
+            {
+                System.Console.WriteLine("HOLA");
+            }
+        }
+       //(2.2.4.2) Crea un programa que contenga un bucle sin fin que muestre los números enteros positivos a partir del uno.
+       public static void  Exercise_Infinity_91()
+       {
+            for (int i =1; i>0; i++)
+            {
+                System.Console.Write(i + " ");
+            }
+       }
+        //(2.2.5.1) Crea un programa escriba 4 veces los números del 1 al 5, en una misma  línea, usando "for": 12345123451234512345.
+        public static void Exercise_For2_92()
+        {
+            for ( int i = 1; i <= 4; i++)
+            {
+                System.Console.Write("12345");
+            }
+        }
+        //(2.2.5.2) Crea un programa escriba 4 veces los números del 1 al 5, en una misma línea, usando "while": 12345123451234512345.
+        public static void Exercise_while_93()
+        {
+            int i = 1;
+            while ( i <=4)
+            {
+                System.Console.Write("12345");
+                i++;
+            }
+        }
+        //(2.2.5.3) Crea un programa que, para los números entre el 10 y el 20 (ambos incluidos) diga si son divisibles entre 5, 
+        //si son divisibles entre 6 y si son divisibles entre 7.
+        public static void exercise_for2_94()
+        {
+            for (int i = 10; i <=20; i++)
+            {
+                if ((i % 5) == 0)
+                    System.Console.WriteLine(i + " es divisible entre 5");
+                else if ((i % 6) == 0)
+                    System.Console.WriteLine(i + " es divisible entre 6");
+                else if ((i % 7) == 0)
+                    System.Console.WriteLine(i + " es divisible entre 7");
+                else
+                    System.Console.WriteLine(i + "  NO es divisible entre 5,6,7");
+            }
+        }
+        //(2.2.6.1) Crea un programa que escriba 4 líneas de texto, cada una de las cuales estará formada por los números del 1 al 5.
+        public static void Exercise_for2_95()
+        {
+            for ( int i = 1; i <= 4; i++)
+            {
+                System.Console.WriteLine(" 1 2 3 4 5 ");
+            }
+        }
+        //(2.2.6.2) Crea un programa que pida al usuario el ancho(por ejemplo, 4) y el alto
+        //(por ejemplo, 3) y escriba un rectángulo formado por esa cantidad de asteriscos:
+        //****
+        //****
+       // ****
+       public static void Exercise_For2_96()
+       {
+            int n1 = Utils.comodin();
+            int n2 = Utils.comodin();
+            for (int i = 0; i < n1; i++)
+            {
+                for (int j = 1; j < n2; j++)
+                {
+                    System.Console.Write("*");
+                }
+                System.Console.WriteLine("*");
+            }
+       }
+        //(2.2.7.1) Crea un programa que muestre las letras de la Z (mayúscula) a la A (mayúscula, descendiendo).
+        public static void Excercise_for2_97()
+        {
+            for (char letra ='Z'; letra >= 'A'; letra--)
+            {
+                System.Console.WriteLine(letra);
+            }
+        }
+        //(2.2.7.2) Crea un programa que muestre 5 veces las letras de la L (mayúscula) a la  N(mayúscula), en la misma línea.
+        public static void Excercise_for2_98()
+        {
+            for (char letra = 'L'; letra <= 'N'; letra++)
+            {
+                for (char j = '1'; j <= '5'; j++)
+                {
+                    System.Console.Write(letra);
+                }
+                System.Console.WriteLine("");
+            }
+        }
+        //(2.2.8.1) Crea un programa que escriba 6 líneas de texto, cada una de las cuales 
+        //estará formada por los números del 1 al 7. Debes usar dos variables llamadas 
+        //"linea" y "numero", y ambas deben estar declaradas en el "for"
+        public static void Excercise_for2_99()
+        {
+            for(int linea = 1; linea<=6; linea++)
+            {
+                for (int numero = 1; numero<=7; numero++)
+                {
+                    System.Console.Write(numero);
+                }
+               System.Console.WriteLine("");
+            }
+        }
+        //(2.2.8.2) Crea un programa que pida al usuario el ancho (por ejemplo, 4) y el alto 
+        //(por ejemplo, 3) y escriba un rectángulo formado por esa cantidad de asteriscos,
+        //como en el ejercicio 2.2.6.2. Deberás usar las variables "ancho" y "alto" para los
+        //datos que pidas al usuario, y las variables "filaActual" y "columnaActual" 
+        //(declaradas en el "for") para el bloque repetitivo.
+        public static void Excercise_for2_100()//Esta a mitad
+        {
+            int n1 = Utils.comodin();
+            int n2 = Utils.comodin();
+            for (int i = 0; i < n1; i++)
+            {
+                for (int j = 1; j < n2; j++)
+                {
+                    System.Console.Write("*");
+                }
+                System.Console.WriteLine("*");
+            }
+        }
     }
 }

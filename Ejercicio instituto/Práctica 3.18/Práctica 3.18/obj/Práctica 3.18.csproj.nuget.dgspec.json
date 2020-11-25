@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\judit\\Desktop\\Ester\\DAW\\TrabajosCasa\\Trabajos-Casa\\Ejercicio instituto\\Práctica 3.18\\Práctica 3.18\\Práctica 3.18.csproj": {}
+    "C:\\Users\\judit\\Desktop\\Ester\\DAW\\Programación\\TrabajosCasa\\Trabajos-Casa\\Ejercicio instituto\\Práctica 3.18\\Práctica 3.18\\Práctica 3.18.csproj": {}
   },
   "projects": {
-    "C:\\Users\\judit\\Desktop\\Ester\\DAW\\TrabajosCasa\\Trabajos-Casa\\Ejercicio instituto\\Práctica 3.18\\Práctica 3.18\\Práctica 3.18.csproj": {
+    "C:\\Users\\judit\\Desktop\\Ester\\DAW\\Programación\\TrabajosCasa\\Trabajos-Casa\\Ejercicio instituto\\Práctica 3.18\\Práctica 3.18\\Práctica 3.18.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\judit\\Desktop\\Ester\\DAW\\TrabajosCasa\\Trabajos-Casa\\Ejercicio instituto\\Práctica 3.18\\Práctica 3.18\\Práctica 3.18.csproj",
+        "projectUniqueName": "C:\\Users\\judit\\Desktop\\Ester\\DAW\\Programación\\TrabajosCasa\\Trabajos-Casa\\Ejercicio instituto\\Práctica 3.18\\Práctica 3.18\\Práctica 3.18.csproj",
         "projectName": "Práctica 3.18",
-        "projectPath": "C:\\Users\\judit\\Desktop\\Ester\\DAW\\TrabajosCasa\\Trabajos-Casa\\Ejercicio instituto\\Práctica 3.18\\Práctica 3.18\\Práctica 3.18.csproj",
+        "projectPath": "C:\\Users\\judit\\Desktop\\Ester\\DAW\\Programación\\TrabajosCasa\\Trabajos-Casa\\Ejercicio instituto\\Práctica 3.18\\Práctica 3.18\\Práctica 3.18.csproj",
         "packagesPath": "C:\\Users\\judit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\judit\\Desktop\\Ester\\DAW\\TrabajosCasa\\Trabajos-Casa\\Ejercicio instituto\\Práctica 3.18\\Práctica 3.18\\obj\\",
+        "outputPath": "C:\\Users\\judit\\Desktop\\Ester\\DAW\\Programación\\TrabajosCasa\\Trabajos-Casa\\Ejercicio instituto\\Práctica 3.18\\Práctica 3.18\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\judit\\AppData\\Roaming\\NuGet\\NuGet.Config",
